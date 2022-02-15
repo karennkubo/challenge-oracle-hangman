@@ -131,8 +131,7 @@ function criarPalavraSecreta() {
     
     palavraSecretaSorteada = palavras[indexPalavra].nome;
     palavraSecretaCategoria = palavras[indexPalavra].categoria;
-    console.log(palavraSecretaSorteada);
-    console.log(palavraSecretaCategoria);
+    
 }
 
 colocarPalavraNaTela();
